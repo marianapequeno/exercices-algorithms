@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\bin\Debug\net6.0\1010-CalculoSimples.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\bin\Debug\net6.0\1010-CalculoSimples.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\bin\Debug\net6.0\1010-CalculoSimples.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\bin\Debug\net6.0\1010-CalculoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\bin\Debug\net6.0\1010-CalculoSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\refint\1010-CalculoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\1010-CalculoSimples.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1010-CalculoSimples\obj\Debug\net6.0\ref\1010-CalculoSimples.dll

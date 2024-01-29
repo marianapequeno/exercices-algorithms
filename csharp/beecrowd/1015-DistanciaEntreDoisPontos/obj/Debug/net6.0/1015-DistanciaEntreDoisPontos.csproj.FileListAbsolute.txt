@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\bin\Debug\net6.0\1015-DistanciaEntreDoisPontos.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\bin\Debug\net6.0\1015-DistanciaEntreDoisPontos.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\bin\Debug\net6.0\1015-DistanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\bin\Debug\net6.0\1015-DistanciaEntreDoisPontos.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\bin\Debug\net6.0\1015-DistanciaEntreDoisPontos.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\refint\1015-DistanciaEntreDoisPontos.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\1015-DistanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1015-DistanciaEntreDoisPontos\obj\Debug\net6.0\ref\1015-DistanciaEntreDoisPontos.dll

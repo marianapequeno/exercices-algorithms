@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\bin\Debug\net6.0\1012-Area.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\bin\Debug\net6.0\1012-Area.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\bin\Debug\net6.0\1012-Area.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\bin\Debug\net6.0\1012-Area.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\bin\Debug\net6.0\1012-Area.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\refint\1012-Area.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\1012-Area.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1012-Area\obj\Debug\net6.0\ref\1012-Area.dll

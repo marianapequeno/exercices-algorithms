@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\bin\Debug\net6.0\1003-SomaSimples.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\bin\Debug\net6.0\1003-SomaSimples.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\bin\Debug\net6.0\1003-SomaSimples.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\bin\Debug\net6.0\1003-SomaSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\bin\Debug\net6.0\1003-SomaSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\refint\1003-SomaSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\ref\1003-SomaSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1003-SomaSimples\obj\Debug\net6.0\1003-SomaSimples.sourcelink.json

@@ -1,1 +1,1 @@
-# Exercícios de lógica de programação com Portugol
+# Exercícios de lógica de programação e algoritmos

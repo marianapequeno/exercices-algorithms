@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\bin\Debug\net6.0\1017-GastoDeCombustivel.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\bin\Debug\net6.0\1017-GastoDeCombustivel.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\bin\Debug\net6.0\1017-GastoDeCombustivel.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\bin\Debug\net6.0\1017-GastoDeCombustivel.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\bin\Debug\net6.0\1017-GastoDeCombustivel.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\refint\1017-GastoDeCombustivel.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\1017-GastoDeCombustivel.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1017-GastoDeCombustivel\obj\Debug\net6.0\ref\1017-GastoDeCombustivel.dll

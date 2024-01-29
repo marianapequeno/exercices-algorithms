@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\bin\Debug\net6.0\1004-ProdutoSimples.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\bin\Debug\net6.0\1004-ProdutoSimples.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\bin\Debug\net6.0\1004-ProdutoSimples.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\bin\Debug\net6.0\1004-ProdutoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\bin\Debug\net6.0\1004-ProdutoSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\refint\1004-ProdutoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\ref\1004-ProdutoSimples.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1004-ProdutoSimples\obj\Debug\net6.0\1004-ProdutoSimples.sourcelink.json

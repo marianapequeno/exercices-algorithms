@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\bin\Debug\net6.0\1008-Salario.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\bin\Debug\net6.0\1008-Salario.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\bin\Debug\net6.0\1008-Salario.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\bin\Debug\net6.0\1008-Salario.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\bin\Debug\net6.0\1008-Salario.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\refint\1008-Salario.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\ref\1008-Salario.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1008-Salario\obj\Debug\net6.0\1008-Salario.sourcelink.json

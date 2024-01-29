@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\bin\Debug\net6.0\1014-Consumo.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\bin\Debug\net6.0\1014-Consumo.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\bin\Debug\net6.0\1014-Consumo.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\bin\Debug\net6.0\1014-Consumo.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\bin\Debug\net6.0\1014-Consumo.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\refint\1014-Consumo.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\1014-Consumo.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1014-Consumo\obj\Debug\net6.0\ref\1014-Consumo.dll

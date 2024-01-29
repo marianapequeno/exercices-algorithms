@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\bin\Debug\net6.0\1011-Esfera.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\bin\Debug\net6.0\1011-Esfera.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\bin\Debug\net6.0\1011-Esfera.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\bin\Debug\net6.0\1011-Esfera.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\bin\Debug\net6.0\1011-Esfera.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.sourcelink.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\refint\1011-Esfera.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\1011-Esfera.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1011-Esfera\obj\Debug\net6.0\ref\1011-Esfera.dll

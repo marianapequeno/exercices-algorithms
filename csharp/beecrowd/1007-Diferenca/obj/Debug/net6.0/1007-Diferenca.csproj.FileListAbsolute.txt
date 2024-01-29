@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\bin\Debug\net6.0\1007-Diferenca.exe
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\bin\Debug\net6.0\1007-Diferenca.deps.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\bin\Debug\net6.0\1007-Diferenca.runtimeconfig.json
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\bin\Debug\net6.0\1007-Diferenca.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\bin\Debug\net6.0\1007-Diferenca.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\refint\1007-Diferenca.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.pdb
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\ref\1007-Diferenca.dll
+C:\Users\Mariana\Documents\exercicios-beecrowd\Exercicios-Beecrowd\1007-Diferenca\obj\Debug\net6.0\1007-Diferenca.sourcelink.json
