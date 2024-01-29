@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleArraySum
-build_property.ProjectDir = C:\Users\Mariana\Documents\logica\hackerrank\ProblemSolvingBasic\SimpleArraySum\
+build_property.ProjectDir = C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\SimpleArraySum\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

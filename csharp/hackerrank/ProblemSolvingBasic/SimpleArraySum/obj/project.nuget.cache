@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQP6w95JO6RaM2dao4atSNBlxAHycTQZp3WdM1hNTUu/iM7YP28ZBmKoNM5Xf4LwDV3YSfHBcRKZ6yTc5PG7XA==",
+  "dgSpecHash": "rhRUg9KYpSFxGwrYztsoi2NGa+kF78HTNNsS6XKg5MKIqBMnTPaKFpAiHQVh0Fr9NP5/8WINa/gJNz2DewCSaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mariana\\Documents\\logica\\hackerrank\\ProblemSolvingBasic\\SimpleArraySum\\SimpleArraySum.csproj",
+  "projectFilePath": "C:\\Users\\Mariana\\Documents\\exercices-algorithms\\csharp\\hackerrank\\ProblemSolvingBasic\\SimpleArraySum\\1-SimpleArraySum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
