@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\bin\Debug\net6.0\3-AVeryBigSum.exe
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\bin\Debug\net6.0\3-AVeryBigSum.deps.json
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\bin\Debug\net6.0\3-AVeryBigSum.runtimeconfig.json
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\bin\Debug\net6.0\3-AVeryBigSum.dll
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\bin\Debug\net6.0\3-AVeryBigSum.pdb
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.AssemblyInfo.cs
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.sourcelink.json
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.dll
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\refint\3-AVeryBigSum.dll
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.pdb
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\3-AVeryBigSum.genruntimeconfig.cache
+C:\Users\Mariana\Documents\exercices-algorithms\csharp\hackerrank\ProblemSolvingBasic\3-AVeryBigSum\obj\Debug\net6.0\ref\3-AVeryBigSum.dll

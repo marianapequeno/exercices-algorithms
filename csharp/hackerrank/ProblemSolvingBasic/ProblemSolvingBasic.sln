@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-SimpleArraySum", "SimpleArraySum\1-SimpleArraySum.csproj", "{E9EDAC73-B00E-4A38-A370-48B3758D6594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CompareTheTriplets", "CompareTheTriplets\2-CompareTheTriplets.csproj", "{F068A192-F65A-49FF-BBA8-99EA302876B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CompareTheTriplets", "CompareTheTriplets\2-CompareTheTriplets.csproj", "{F068A192-F65A-49FF-BBA8-99EA302876B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-AVeryBigSum", "3-AVeryBigSum\3-AVeryBigSum.csproj", "{7B408496-4073-4AA6-BCC4-AA54DD90F040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F068A192-F65A-49FF-BBA8-99EA302876B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F068A192-F65A-49FF-BBA8-99EA302876B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F068A192-F65A-49FF-BBA8-99EA302876B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B408496-4073-4AA6-BCC4-AA54DD90F040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B408496-4073-4AA6-BCC4-AA54DD90F040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B408496-4073-4AA6-BCC4-AA54DD90F040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B408496-4073-4AA6-BCC4-AA54DD90F040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

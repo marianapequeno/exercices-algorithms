@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-SimpleArraySum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff01a713d10383621004fda8d65c38f1a4979775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20b683f472b0b3d1b5f22dd34b59e4025137060")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-SimpleArraySum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-SimpleArraySum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
